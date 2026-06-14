@@ -1,4 +1,4 @@
-import SearchInput from "@/shared/ui/inputs/SearchInput";
+import SearchInput from "@/shared/ui/inputs/InputIconPlaceholder";
 
 const SearchOfTheme = () => {
   return <SearchInput placeholder="Поиск по темам" />;
